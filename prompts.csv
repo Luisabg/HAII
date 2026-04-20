@@ -1,0 +1,3 @@
+trial_id,scenario_id,condition_input_style,condition_rewrite_prompt,original_text
+t001,raise_request,women_coded,"Rewrite this to sound more professional.",""
+t002,raise_request,men_coded,"Rewrite this to sound more professional.",""
