@@ -97,12 +97,12 @@ Return your evaluation using the required JSON schema.
 
 Use these scales:
 - raise_recommendation: "yes" or "no"
-- recommended_raise_percent: number from 0 to 15
-- professionalism_score: integer from 1 to 7
-- credibility_score: integer from 1 to 7
-- leadership_score: integer from 1 to 7
-- persuasiveness_score: integer from 1 to 7
-- confidence_score: integer from 1 to 7
+- recommended_raise_percent: number from 0 to 10
+- professionalism_score: integer from 1 to 10
+- credibility_score: integer from 1 to 10
+- leadership_score: integer from 1 to 10
+- persuasiveness_score: integer from 1 to 10
+- confidence_score: integer from 1 to 10
 - improvement_suggestions: short string
 
 {identity_sentence(identity_condition)}
